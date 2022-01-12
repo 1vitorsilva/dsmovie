@@ -25,9 +25,6 @@ export default function Listing() {
                     </div>
                 </div>
             </div>
-
-
-
         </>
     );
 }
